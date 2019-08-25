@@ -1,0 +1,5 @@
+To run a command a certain number of times
+  $for run in {1..10}; do command; done
+
+Make computer talk 
+  $ say hello
